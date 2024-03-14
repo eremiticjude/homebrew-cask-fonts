@@ -1,4 +1,4 @@
-cask "font-envy-code-r-nerd-font" do
+cask "font-tengwar-eldamar" do
     version ":latest"
     sha256 "3851e51ac58687c3f19da2f59aa3b19db49f2abaade33a3d883d73c4b7e5ec5f"
   
