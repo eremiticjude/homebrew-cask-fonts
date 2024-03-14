@@ -1,4 +1,4 @@
-cask "font-tengwar-eldamar" do
+cask "font-panic-sans" do
     version ":latest"
     sha256 "08dce9c7cf84cf2ba54d339453c6f6bf73f535f67b7e223ad79c9740abbcadbc"
   
